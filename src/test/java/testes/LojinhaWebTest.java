@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 public class LojinhaWebTest {
 
     private WebDriver navegador;
-
+ 
     @Before
     public void SetUp(){
         //Preparação
